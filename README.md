@@ -1,27 +1,28 @@
-# Airbnb
+# Angular Tailwind Template
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.1.0.
+This project is a starter template for building Angular applications using Tailwind CSS, PostCSS, and Tailwind Merge.
 
-## Development server
+## Features
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+- **Angular**: Angular 15+ framework for building scalable applications.
+- **Tailwind CSS**: Utility-first CSS framework for rapid UI development.
+- **PostCSS**: To optimize and transform CSS.
+- **Tailwind Merge**: To handle class merging and conflict resolution.
+- **TypeScript ESLint**: For linting TypeScript code.
+- **Prettier**: For consistent code formatting.
+- **Husky + Lint Staged**: To run pre-commit hooks ensuring code quality.
 
-## Code scaffolding
+## Prerequisites
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+Before you begin, ensure you have met the following requirements:
 
-## Build
+- **Node.js**: Version 20.x or later.
+- **Angular CLI**: Version 15.x or later.
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+## Installation
 
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/ujjwalbhandarii/angular-template
+   cd angular-tailwind-template
+   ```
