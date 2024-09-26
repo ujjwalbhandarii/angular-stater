@@ -1,10 +1,11 @@
 # Angular Tailwind Template
 
-This project is a starter template for building Angular applications using Tailwind CSS, PostCSS, and Tailwind Merge.
+![Angular Tailwind Logo](https://v17.angular.io/assets/images/logos/angular/logo-nav@2x.png)  
+_A starter template for building Angular applications using Tailwind CSS, PostCSS, and Tailwind Merge._
 
 ## Features
 
-- **Angular**: Angular 15+ framework for building scalable applications.
+- **Angular**: Angular 18+ framework for building scalable applications.
 - **Tailwind CSS**: Utility-first CSS framework for rapid UI development.
 - **PostCSS**: To optimize and transform CSS.
 - **Tailwind Merge**: To handle class merging and conflict resolution.
@@ -14,10 +15,10 @@ This project is a starter template for building Angular applications using Tailw
 
 ## Prerequisites
 
-Before you begin, ensure you have met the following requirements:
+Before starting, make sure you have the following installed:
 
 - **Node.js**: Version 20.x or later.
-- **Angular CLI**: Version 15.x or later.
+- **Angular CLI**: Version 18.x or later.
 
 ## Installation
 
