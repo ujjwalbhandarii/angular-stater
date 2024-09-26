@@ -11,7 +11,6 @@ _A starter template for building Angular applications using Tailwind CSS, PostCS
 - **Tailwind Merge**: To handle class merging and conflict resolution.
 - **TypeScript ESLint**: For linting TypeScript code.
 - **Prettier**: For consistent code formatting.
-- **Husky + Lint Staged**: To run pre-commit hooks ensuring code quality.
 
 ## Prerequisites
 
